@@ -7,8 +7,7 @@ The main goal was to identify the factors driving revenue and profitability, und
 ## My Task
 The goal of this project was to transform raw sales data into an interactive Power BI dashboard that provides a clear view of sales performance, profitability, and business trends. It enables users to explore key metrics, compare results over time, evaluate the impact of discounts, and identify the products and regions that contribute most to business growth.
 ## Tools & Technologies
-Power BI
-DAX
+The report was built in Power BI using a star-schema data model, calculated measures, interactive filters, and several analytical dashboard pages.
 ##     Business Questions Addressed
 How are sales and profit changing over time?
 Which products generate the highest sales and profit?
