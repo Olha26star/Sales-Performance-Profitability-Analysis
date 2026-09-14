@@ -9,13 +9,13 @@ The goal of this project was to transform raw sales data into an interactive Pow
 ## Tools & Technologies
 The report was built in Power BI using a star-schema data model, calculated measures, interactive filters, and several analytical dashboard pages.
 ## Business Questions
-How are sales and profit changing over time?
-Which products, categories, and markets generate the highest sales?
-Which regions perform best?
-How do discounts affect sales volume and profitability?
-What is the monthly and year-over-year performance?
-How much does shipping cost impact overall profit?
-Which orders require deeper investigation through drill-through analysis?
+How are sales and profit changing over time?<br>
+Which products, categories, and markets generate the highest sales?<br>
+Which regions perform best?<br>
+How do discounts affect sales volume and profitability?<br>
+What is the monthly and year-over-year performance?<br>
+How much does shipping cost impact overall profit?<br>
+Which orders require deeper investigation through drill-through analysis?<br>
 
 <img width="1467" height="767" alt="image" src="https://github.com/user-attachments/assets/2fe754a1-185d-4001-917c-d7959d413be4" />
 <img width="1498" height="767" alt="image" src="https://github.com/user-attachments/assets/dcfa4385-044e-42d5-b8ff-7d2dfbd023b4" />
