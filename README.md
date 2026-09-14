@@ -1,5 +1,9 @@
-# Sales-Performance-Profitability-Analysis
-Interactive Power BI dashboard for sales performance, profitability, and business intelligence analysis.
+# <img width="940" height="111" alt="image" src="https://github.com/user-attachments/assets/f1d5cb76-230c-476b-9751-9c8ecac44783" />
+
+## Project Overview
+This project analyzes the sales and financial performance of a global distributor across 2012–2015.
+The analysis focuses on sales, profitability, shipping costs, discount strategy, product performance, markets, categories, and shipping methods.
+The main goal was to identify the factors driving revenue and profitability, understand where profit is being lost, and provide data-driven recommendations for improving business performance.
 ## My Task
 The goal of this project was to transform raw sales data into an interactive Power BI dashboard that provides a clear view of sales performance, profitability, and business trends. It enables users to explore key metrics, compare results over time, evaluate the impact of discounts, and identify the products and regions that contribute most to business growth.
 ## Tools & Technologies
