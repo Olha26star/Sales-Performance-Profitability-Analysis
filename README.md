@@ -20,6 +20,9 @@ Which orders require deeper investigation through drill-through analysis?
 <img width="1503" height="756" alt="image" src="https://github.com/user-attachments/assets/e28f36e7-9a79-45b3-8bd7-17c407455128" />
 <img width="1456" height="718" alt="image" src="https://github.com/user-attachments/assets/22463cbf-d1a7-4af9-9265-6ae0d9bb94f4" />
 
+<img width="1851" height="750" alt="image" src="https://github.com/user-attachments/assets/ae189035-1c77-4faf-91fd-6dbad8f86508" />
+
+
 
 
 
